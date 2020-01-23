@@ -1,0 +1,3 @@
+git stash: Save changes that you don’t want to commit immediately.
+git merge: Merge two branches you were working on.
+git reset :You know when you commit changes that are not complete, this sets your index to the latest commit that you want to work on with.
